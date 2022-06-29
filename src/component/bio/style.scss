@@ -1,0 +1,13 @@
+$color:#fff;
+.myDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: $color;
+    height: 400px;
+    text-shadow: 5px 4px 2px black,
+                5px 4px 2px black;
+    background-image: url('../../assets/cover.jpg');
+    background-size: cover;
+    text-transform: capitalize;
+}
